@@ -34,6 +34,7 @@ System.out.println("Line does not exist");
 public static void main(String[] args) throws IOException
 {
 Scanner sc = new Scanner(System.in);
+System.out.println("changes done in the file");
 System.out.println("Please enter the line number");
 int l = sc.nextInt();
 C1 obj = new C1();
